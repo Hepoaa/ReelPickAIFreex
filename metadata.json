@@ -1,0 +1,5 @@
+{
+  "name": "CineFindAi",
+  "description": "CineFindAi is a modern, cinematic web application that leverages AI to provide personalized movie recommendations based on conversational search queries. Find your next favorite film by simply describing what you want to watch.",
+  "requestFramePermissions": []
+}
